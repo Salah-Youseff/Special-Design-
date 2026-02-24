@@ -36,6 +36,18 @@ The project is organized into several key sections:
 ## 🚀 Getting Started
 To run this project locally:
 
+## 🌟 Acknowledgments
+Special thanks to **Elzero Web School** for the inspiration and the educational path that helped in creating this project.
+
+## 📬 Contact
+Feel free to reach out with any questions or feedback:
+
+* **GitHub**: [Salah-Youseff](https://github.com/Salah-Youseff)
+* **LinkedIn**: [Salah Yousef](https://www.linkedin.com/in/salah-yousef-a1320b22a/)
+
+---
+*Created by [Salah Youseff](https://github.com/Salah-Youseff)*
+
 1. Clone the repository:
    ```bash
    git clone [https://github.com/salah-youseff/Special-Design-.git](https://github.com/salah-youseff/Special-Design-.git)
