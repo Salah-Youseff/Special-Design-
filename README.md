@@ -33,9 +33,6 @@ The project is organized into several key sections:
 4.  **About:** Insights into the brand/agency story.
 5.  **Contact:** A functional-ready footer with social links and contact info.
 
-## 🚀 Getting Started
-To run this project locally:
-
 ## 🌟 Acknowledgments
 Special thanks to **Elzero Web School** for the inspiration and the educational path that helped in creating this project.
 
@@ -48,6 +45,8 @@ Feel free to reach out with any questions or feedback:
 ---
 *Created by [Salah Youseff](https://github.com/Salah-Youseff)*
 
+## 🚀 Getting Started
+To run this project locally:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/salah-youseff/Special-Design-.git](https://github.com/salah-youseff/Special-Design-.git)
